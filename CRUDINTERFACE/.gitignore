@@ -1,0 +1,15 @@
+#Ignorar arquivos __pycache__
+__pycache__
+
+#Ambiente vrtual
+venv/
+.venv/
+
+#Banco de dados
+*.db
+*.db/
+
+
+#Credenciais seguras
+env/
+.env/
